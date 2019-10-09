@@ -15,7 +15,7 @@ role: Post-doctoral Researcher in Particle Track Detection
 # Organizations/Affiliations
 organizations:
 - name: Lawrence Berkeley National Laboratory
-  url: "lbl.gov"
+  url: "www.lbl.gov"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

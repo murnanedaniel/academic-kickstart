@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Daniel Murnane
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral Researcher in Particle Track Detection
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Lawrence Berkeley National Laboratory
+  url: "lbl.gov"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

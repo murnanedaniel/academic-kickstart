@@ -1,6 +1,6 @@
 ---
-title: "ColliderBit: a GAMBIT module for the calculation of high-energy collider observables and likelihoods"
-date: 2018-03-01
+title: "Supersymmetric Dark Matter Searches with CMS Data"
+date: 2014-10-31
 publishDate: 2020-01-30T18:25:10.110141Z
 authors: ["Daniel Murnane"]
 publication_types: ["7"]

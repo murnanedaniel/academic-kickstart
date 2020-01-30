@@ -1,24 +1,24 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Graph Neural Networks for Particle Tracking
+event: Computing Sciences Postdoc Symposium 2020
+event_url: https://cs.lbl.gov/news-media/news/2020/postdoc-symposium/?utm_source=InTheLoop&utm_campaign=6be1f3437d-EMAIL_CAMPAIGN_2020_01_28&utm_medium=email&utm_term=0_6ff696e18a-6be1f3437d-101213983
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+#location: Source Themes HQ
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: January 30-31 Event Features Wide Range of Emerging Research
+abstract: "Twenty-two postdoctoral fellows in the Computing Sciences Area have been chosen to present their research during a two-day symposium that is the culmination of a targeted communications training program designed specifically for postdocs. The symposium, open to the wider Berkeley Lab community, takes place January 30-31 in Wang Hall (Building 59), room 3101."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
+date: "2020-01-30T9:00:00Z"
 date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"

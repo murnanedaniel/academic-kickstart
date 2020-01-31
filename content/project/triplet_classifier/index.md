@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Exa.TrkX Project
+summary: HEP advanced tracking algorithms at the exascale
 tags:
 - GNN
 date: "2016-04-27T00:00:00Z"
@@ -9,14 +9,14 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Exa.TrkX Project
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Repo
+  url: https://exatrkx.github.io/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Exa.TrkX is a DOE CompHEP project that will scale up the optimization, performance, and validation studies of ML tracking models to unprecedented levels, enabling HEP to develop production-quality tracking that runs efficiently on the next generation of hybrid-accelerated computing architectures, from the experiments online triggering systems to DOE exascale-class HPC systems.
